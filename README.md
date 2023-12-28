@@ -34,7 +34,7 @@ To run the back-end locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-backend-repo.git
+   https://github.com/raedboumm/backproject.git
 Navigate to the project directory:
 
 bash
